@@ -1,1 +1,1 @@
-# ilk-projem
+# ilk-projem bu benim ilk projemdir.
